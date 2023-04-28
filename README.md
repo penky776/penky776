@@ -18,5 +18,3 @@ Here are some ideas to get you started:
 
 
 - 🌱 currently learning rust
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=penky776&hide_progress=false&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
