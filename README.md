@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=penky776&layout=compact&hide_border=true&theme=dracula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php"><br/>
 
-
-- 🌱 currently learning rust
+![Rust](https://img.shields.io/badge/Lang-Rust-red?style=for-the-badge&logo=rust)
+![JavaScript](https://img.shields.io/badge/LANG-javascript-yellow?style=for-the-badge&logo=javascript)
+![Axum](https://img.shields.io/badge/Framework-Axum-purple?style=for-the-badge&logo=rust)
+![HTML5](https://img.shields.io/badge/LANG-HTML5-orange?style=for-the-badge&logo=html5)
+![Arch](https://img.shields.io/badge/OS-ARCH%20LINUX-black?logo=arch-linux&style=for-the-badge)
