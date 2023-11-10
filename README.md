@@ -32,3 +32,8 @@ Hi there! I'm interested in developing low-level code and server-side technologi
 ![Next.js](https://img.shields.io/badge/Framework-next.js-006400?style=for-the-badge&logo=next.js)
 ![React](https://img.shields.io/badge/library-react-FF00FF?style=for-the-badge&logo=react)
 ![Typescript](https://img.shields.io/badge/lang-typescript-4169E1?style=for-the-badge&logo=typescript)
+
+## Wakatime stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
