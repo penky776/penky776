@@ -16,6 +16,12 @@ Here are some ideas to get you started:
 -->
 [![](https://img.shields.io/badge/Website-ME-8B0000?style=for-the-badge)](https://meesam-ali.com/)
 
+## About me
+
+- 🔓 I owe my early education in all-things-tech to open source software
+- 🐱 I like cats and potatoes 
+- 📖 I think metaphors are pretty neat 
+
 ## Tech Stack
 
 [![](https://img.shields.io/badge/Lang-Rust-FF0000?style=for-the-badge&logo=rust)](https://www.rust-lang.org/)
