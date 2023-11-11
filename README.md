@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![](https://img.shields.io/badge/Website-ME-8B0000?style=for-the-badge)](https://meesam-ali.com/)
+[![](https://img.shields.io/badge/email-ME-191970?style=for-the-badge)](mailto:me@meesam-ali.com)
 
 ## About me
 
