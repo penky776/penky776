@@ -19,9 +19,8 @@ Here are some ideas to get you started:
 
 ## About me
 
-- 🔓 I owe my early education in all-things-tech to open source software
-- 🐱 I like cats and potatoes 
-- 📖 I think metaphors are pretty neat 
+- 💨 currently recovering from a levels
+- 🐱 I like cats
 
 ## Tech Stack
 
