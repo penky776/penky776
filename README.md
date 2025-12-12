@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Website-ME-8B0000?style=for-the-badge)](https://meesam-ali.com/)
 [![](https://img.shields.io/badge/email-ME-191970?style=for-the-badge)](mailto:me@meesam-ali.com)
 
+<!--
 <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=penky776&layout=compact&hide_border=true&theme=dracula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php"><br/>
-
+-->
